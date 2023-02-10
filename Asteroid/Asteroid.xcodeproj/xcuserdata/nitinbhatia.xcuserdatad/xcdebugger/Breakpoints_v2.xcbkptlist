@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "E900328D-80B6-47AB-BA4B-EB9FF2097DB8"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "82C29A4A-A9FC-4C70-815D-1EF4A477D3F3"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Asteroid/DetailsViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "86"
+            endingLineNumber = "86"
+            landmarkName = "getData()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "82C29A4A-A9FC-4C70-815D-1EF4A477D3F3 - 9831d5ab4b5355af"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.CheckedContinuation&lt;Swift.Optional&lt;Asteroid.AestroidModel&gt;, Swift.Never&gt;) -&gt; () in Asteroid.DetailsViewController.getData() async -&gt; Swift.Optional&lt;Asteroid.AestroidModel&gt;"
+                  moduleName = "Asteroid"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nitinbhatia/Desktop/Asteroid/Asteroid/DetailsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "57"
+                  endingLineNumber = "57"
+                  offsetFromSymbolStart = "1004">
+               </Location>
+               <Location
+                  uuid = "82C29A4A-A9FC-4C70-815D-1EF4A477D3F3 - b014a25deecb610"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;Swift.Optional&lt;Foundation.Data&gt;, Alamofire.AFError&gt;) -&gt; () in closure #1 (Swift.CheckedContinuation&lt;Swift.Optional&lt;Asteroid.AestroidModel&gt;, Swift.Never&gt;) -&gt; () in Asteroid.DetailsViewController.getData() async -&gt; Swift.Optional&lt;Asteroid.AestroidModel&gt;"
+                  moduleName = "Asteroid"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nitinbhatia/Desktop/Asteroid/Asteroid/DetailsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "58"
+                  endingLineNumber = "58"
+                  offsetFromSymbolStart = "144">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CCC315E7-B025-4330-8250-5925928DD840"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Asteroid/DetailsViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "84"
+            endingLineNumber = "84"
+            landmarkName = "getData()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "CCC315E7-B025-4330-8250-5925928DD840 - 9831d5ab4b5355ce"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.CheckedContinuation&lt;Swift.Optional&lt;Asteroid.AestroidModel&gt;, Swift.Never&gt;) -&gt; () in Asteroid.DetailsViewController.getData() async -&gt; Swift.Optional&lt;Asteroid.AestroidModel&gt;"
+                  moduleName = "Asteroid"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nitinbhatia/Desktop/Asteroid/Asteroid/DetailsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "56"
+                  endingLineNumber = "56"
+                  offsetFromSymbolStart = "700">
+               </Location>
+               <Location
+                  uuid = "CCC315E7-B025-4330-8250-5925928DD840 - b014a25deecb63f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;Swift.Optional&lt;Foundation.Data&gt;, Alamofire.AFError&gt;) -&gt; () in closure #1 (Swift.CheckedContinuation&lt;Swift.Optional&lt;Asteroid.AestroidModel&gt;, Swift.Never&gt;) -&gt; () in Asteroid.DetailsViewController.getData() async -&gt; Swift.Optional&lt;Asteroid.AestroidModel&gt;"
+                  moduleName = "Asteroid"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nitinbhatia/Desktop/Asteroid/Asteroid/DetailsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "57"
+                  endingLineNumber = "57"
+                  offsetFromSymbolStart = "144">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F83124D7-A195-4AF7-96CC-8191F472C1DF"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Asteroid/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "btnSubmitAction(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "F83124D7-A195-4AF7-96CC-8191F472C1DF - 5e2f459060b69eef"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Asteroid.ViewController.btnSubmitAction(Any) -&gt; ()"
+                  moduleName = "Asteroid"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nitinbhatia/Desktop/Asteroid/Asteroid/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "168">
+               </Location>
+               <Location
+                  uuid = "F83124D7-A195-4AF7-96CC-8191F472C1DF - 5e2f459060b69eef"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Asteroid.ViewController.btnSubmitAction(Any) -&gt; ()"
+                  moduleName = "Asteroid"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nitinbhatia/Desktop/Asteroid/Asteroid/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "268">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BB955E62-239D-42DC-BD23-266E4E69BBF3"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Asteroid/DetailsViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "77"
+            endingLineNumber = "77"
+            landmarkName = "getData()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6D42138A-ED46-4032-8CA1-CBD2691131E5"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Asteroid/DetailsViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "106"
+            endingLineNumber = "106"
+            landmarkName = "getFastestAestroidsData(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "6D42138A-ED46-4032-8CA1-CBD2691131E5 - db9efa05ee534fd3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Asteroid.DetailsViewController.getFastestAestroidsData(Asteroid.AestroidModel) -&gt; ()"
+                  moduleName = "Asteroid"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nitinbhatia/Desktop/Asteroid/Asteroid/DetailsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "86"
+                  endingLineNumber = "86"
+                  offsetFromSymbolStart = "520">
+               </Location>
+               <Location
+                  uuid = "6D42138A-ED46-4032-8CA1-CBD2691131E5 - 446524746b1ed814"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Asteroid.ObjectDateData, Asteroid.ObjectDateData) -&gt; Swift.Bool in Asteroid.DetailsViewController.getFastestAestroidsData(Asteroid.AestroidModel) -&gt; ()"
+                  moduleName = "Asteroid"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nitinbhatia/Desktop/Asteroid/Asteroid/DetailsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "87"
+                  endingLineNumber = "87"
+                  offsetFromSymbolStart = "80">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
